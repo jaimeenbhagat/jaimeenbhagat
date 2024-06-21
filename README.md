@@ -27,6 +27,6 @@ I'm continuously expanding my knowledge base, in programming languages.
 ## 📫 How to Reach Me
 
 - **Email**: [jaimeenbhagat@outlook.com](mailto:jaimeenbhagat@outlook.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jaimeen-bhagat-18a687290)
+- **LinkedIn**: [jaimeenbhagat](https://www.linkedin.com/in/jaimeen-bhagat-18a687290)
 
 Feel free to explore my repositories and connect with me on GitHub. Let's collaborate and create something amazing!
