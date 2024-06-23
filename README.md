@@ -12,8 +12,8 @@ I'm currently pursuing a B.Tech in Artificial Intelligence and Data Science, whe
 
 ## 🛠 Skills
 
-- **Programming Languages**: C, C++, Python, HTML, CSS, JS, JAVA, CANVA
-- **Software**: MS Office
+- **Programming Languages**: C, C++, Python, HTML, CSS, JS, JAVA
+- **Software**: MS Office, CANVA
 
 ## 🎖 Achievements
 
